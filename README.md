@@ -33,7 +33,7 @@ For gcc:
     # Use Lomuto partition, branch-free implementation
     g++ -std=c++17 -O3 -DNDEBUG -DLOMUTO lomuto.cpp
 
-For clang, use:
+For clang:
 
     # std::sort baseline
     clang++ -std=c++17 -O3 -DNDEBUG -DSTDSORT lomuto.cpp
