@@ -1,4 +1,4 @@
-This code accompanies the article "Lomuto's Comeback" in The D Blog.
+This code accompanies the article ["Lomuto's Comeback"](https://dlang.org/blog/2020/05/14/lomutos-comeback/) in The D Blog.
 
 To build the benchmarks, use for gdc:
 
